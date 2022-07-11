@@ -20,4 +20,4 @@
 * https://www.youtube.com/watch?v=3sTcRQ3h1Gg
 
 ## Test Web Application With Katalon Studio
-![Katalon Studio](https://photos.app.goo.gl/YvzM9ANddamTRXw9A)
+![Katalon Studio](https://github.com/SE151251/DateTimeCheck/blob/main/image/Review.png)
